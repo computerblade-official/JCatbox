@@ -1,4 +1,3 @@
-<div align=center> <h1>JCatbox</h1><sub> Catbox.moe API Library for Java</sub></div>
-
----
+<div align=center> <h1>JCatbox</h1></div>
+JCatbox is a <a href=https://catbox.moe>Catbox.moe</a> API Library for Java 
 
